@@ -1,0 +1,30 @@
+_repo: Brood-of-the-Dark-Moon--13--A-Sequel-to--Dark-Moon--_32398
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Diffin, Charles Willard
+    birthdate: 1884
+    deathdate: 1966
+    gutenberg_agent_id: '33760'
+    url: http://www.gutenberg.org/2009/agents/33760
+description: Once more Chet, Walt and Diane are united in a wild ride to the Dark
+  Moon, but this time they go as prisoners of their deadly enemy Schwartzmann.
+gutenberg_bookshelf:
+- Science Fiction
+- Astounding Stories
+gutenberg_issued: '2010-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: "Brood of the Dark Moon\r\n(A Sequel to \"Dark Moon\")"
+url: http://www.gutenberg.org/ebooks/32398
